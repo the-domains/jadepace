@@ -1,0 +1,14 @@
+layout_spectrum: 0.7010261
+color:
+  saturation: 0.3320802
+  brandStrength: 0.3031636
+  lightness: 0.1804511
+  rhythmicContrast: 0.4010025
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0
+name: jadepace
