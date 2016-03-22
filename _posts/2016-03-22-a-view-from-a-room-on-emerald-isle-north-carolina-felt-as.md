@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:0da1ad55-688c-4af0-93c3-30554880c237'
 inLanguage: null
 starred: false
 keywords: []
 description: 'From a room with a view of Atlantic Beach, it felt as empty as it looks.'
-datePublished: '2016-03-22T17:01:56.446Z'
-dateModified: '2016-03-22T16:58:08.667Z'
+datePublished: '2016-03-22T17:02:52.797Z'
+dateModified: '2016-03-22T17:02:45.189Z'
 author: []
 title: Atlantic Beach North Carolina
 sourcePath: _posts/2016-03-22-a-view-from-a-room-on-emerald-isle-north-carolina-felt-as.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: atlantic-beach-north-carolina/index.html
 _context: 'http://schema.org'
 _type: Article
 
