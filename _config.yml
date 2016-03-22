@@ -1,14 +1,28 @@
+name: jadepace
+favicon: null
 layout_spectrum: 0.7010261
+typography_spectrum: 0
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3320802
+  brandColors:
+    - '#ffffff'
+    - '#000000'
+    - '#555555'
+    - '#7e7e7e'
+    - '#afafaf'
   brandStrength: 0.3031636
   lightness: 0.1804511
+  saturation: 0.3320802
   rhythmicContrast: 0.4010025
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-typography_spectrum: 0
-name: jadepace
+purpose: []
